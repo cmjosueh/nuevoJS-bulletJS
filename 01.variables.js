@@ -19,11 +19,21 @@ console.log(mascota1)
 //REGLAS DE LAS VARIABLES  
 /* 1.let no me permite declarar la variable 
      con el mismo nombre
+por ejemplo: NO puedo tener 
+mascota = "perro";
+mascota = "gato";
    
    2.let permite declarar la variable y no inicializarla 
      y más tarde en cualquier lugar del código 
      inicializarla
+Por ejemplo:
+let mascota;  
+esta es una variable ya inicializada sin embargo todavia 
+no  esta declarada.
+posteriomente la podemos declarar:
+mascota = gato;
 
+          VAR
     1.var me permite declarar otra variable con el mismo 
       nombre
 
