@@ -4,6 +4,10 @@
 //ÁMBITO GLOBAL *********************************************
 //Es el contexto que engloba un mismo archivo 
 
+/*las siguientes son variables globales porque
+no se encuentran dentro de algun bloque o 
+condicional estan solas */
+
 //VAR 
 var perro="lucas"
 
